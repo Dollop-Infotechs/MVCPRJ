@@ -45,6 +45,9 @@ public class Employee {
 	public void setDob(String dob) {
 		this.dob = dob;
 	}
+	public void PQR(String dob) {
+		this.dob = dob;
+	}
 	
 	//generate toString()
 	@Override
